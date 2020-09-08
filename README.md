@@ -23,6 +23,11 @@ Shortcut | Commande
 `Ctrl`-`G` | Find/Replace again
 `Ctrl`-`N` | Snap both in Stage and Timeline windows
 
+## Navigating interface
+Shortcut | Commande 
+--- | ---
+`Ctrl`-`Tab` | Focus cycle to open windows (Stage, Main Timeline, Media…)
+
 ## Stage Window
 Shortcut | Commande 
 --- | ---
